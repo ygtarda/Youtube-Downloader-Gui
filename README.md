@@ -61,7 +61,7 @@ python main.py
 ---
 
 ## 📸 Ekran Görüntüleri
-<img src="1.png" width="600">
+<img align="center" src="1.png" width="600">
 
 
 ## 💻 Nasıl Kullanılır?
